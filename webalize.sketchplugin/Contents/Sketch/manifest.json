@@ -1,0 +1,17 @@
+{
+    "name" : "Webalize - David Veselý",
+    "identifier" : "cz.davidvesely.webalize",
+    "version" : "1.2",
+    "description" : "Convert layout and group name to url friendly name.",
+    "author" : "David Veselý 🤑",
+    "authorEmail" : "jsem@davidvesely.cz",
+    "commands" : [
+    {
+      "script" : "webalize.sketchscript",
+      "handler" : "webalizeSelectedLayers",
+      "shortcut" : "",
+      "name" : "Webalize this 💩!",
+      "identifier" : "webalize"
+    }
+  ]
+}
