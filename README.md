@@ -11,7 +11,7 @@ Developed by [David Veselý](http://davidvesely.cz/).
 
 ##Installation
 1. Download and unzip: [webalize-master.zip].
-2. Double-click on webalize.sketchplugin* file.
+2. Double-click on **webalize.sketchplugin** file.
 
 [webalize-master.zip]: https://github.com/vesely/webalize/archive/master.zip
 
