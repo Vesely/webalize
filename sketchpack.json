@@ -1,5 +1,5 @@
 {
-    "name": "Webalize",
-    "description": "Sketch plugin to webalize layers name. ",
+    "name": "Webalize layer or group name.",
+    "description": "Sketch plugin to webalize layer name. ",
     "tags": ["webalize", "url friendly" , "rename", "layers"]
 }

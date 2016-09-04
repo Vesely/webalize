@@ -1,3 +1,6 @@
+//Developed by David Veselý
+	// http://davidvesely.cz/
+	
 // The Brain
 function webalize(layerName) {
 	s = String(layerName);
