@@ -10,7 +10,7 @@ A plugin for [Sketch](http://www.sketchapp.com) that change layer/group name to 
 ![Webalize - sketch plugin - demo](http://davidvesely.cz/webalize-demo.gif)
 
 
-##Installation
+## Installation
 1. Download and unzip: [webalize-master.zip].
 2. Double-click on **webalize.sketchplugin** file.
 
